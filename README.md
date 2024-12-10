@@ -25,7 +25,7 @@ The game is implemented using the following classes:
 - Up Arrow/Spacebar: Rotate clockwise.
 - Q Key: Quit the game.
 
-### 🌟 Features
+### 🌟 Features...
 
 - Smooth graphics using Pygame.
 - Random generation of tetrominoes.
